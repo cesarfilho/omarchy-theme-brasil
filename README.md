@@ -2,7 +2,7 @@
 Tema do Omarchy inspirado no Brasil: paleta verde/amarelo/azul moderna, e 83 wallpapers em três categorias, uma para cada uma das 27 unidades federativas mais o conjunto nacional:
 - **Foto** — uma paisagem ou marco real de cada estado (cidade e local identificados)
 - **Bandeira** — a bandeira oficial de cada estado
-- **Mapa** — a localização de cada estado dentro do Brasil
+- **Mapa** — o mapa oficial de cada estado (IBGE), com cidades, rodovias e rios
 
 Todo wallpaper traz uma legenda gravada na própria imagem, no canto inferior esquerdo, identificando o estado e, no caso das fotos, o local e a cidade retratados.
 
@@ -50,7 +50,8 @@ Mais o conjunto **Nacional**: bandeira do Brasil e mapa político das 27 unidade
 ## Fontes das imagens
 
 - **Bandeiras**: arquivo oficial referenciado no infobox de cada estado na Wikipédia (campo `image_flag`), obtido via Wikimedia Commons.
-- **Mapas**: mapa de localização de cada estado (campo `image_map` do infobox) e o mapa político nacional rotulado, ambos via Wikimedia Commons.
+- **Mapas dos estados**: mapa oficial "Mapa Escolar" do IBGE (Instituto Brasileiro de Geografia e Estatística) de cada unidade federativa, via Wikimedia Commons. O Distrito Federal usa o mapa combinado oficial "Goiás e Distrito Federal" do IBGE, já que o órgão não publica um mapa escolar separado para o DF.
+- **Mapa nacional**: mapa político rotulado do Brasil (Wikimedia Commons, série NordNordWest/TUBS).
 - **Fotos**: fotografias reais dos locais listados acima, licenciadas para reuso.
 
 Estrutura completa fica registrada em [`wallpapers.json`](wallpapers.json), listando estado, região, tipo, local/cidade (quando aplicável) e fonte de cada arquivo em `backgrounds/`.
