@@ -1,0 +1,665 @@
+[
+  {
+    "file": "brasil-ac-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "AC",
+    "estado": "Acre",
+    "regiao": "Norte"
+  },
+  {
+    "file": "brasil-ac-mapa.jpg",
+    "type": "mapa",
+    "uf": "AC",
+    "estado": "Acre",
+    "regiao": "Norte",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-ac-palacio-rio-branco.jpg",
+    "type": "foto",
+    "uf": "AC",
+    "estado": "Acre",
+    "regiao": "Norte",
+    "local": "Palácio Rio Branco",
+    "cidade": "Rio Branco"
+  },
+  {
+    "file": "brasil-al-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "AL",
+    "estado": "Alagoas",
+    "regiao": "Nordeste"
+  },
+  {
+    "file": "brasil-al-mapa.jpg",
+    "type": "mapa",
+    "uf": "AL",
+    "estado": "Alagoas",
+    "regiao": "Nordeste",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-al-maragogi.jpg",
+    "type": "foto",
+    "uf": "AL",
+    "estado": "Alagoas",
+    "regiao": "Nordeste",
+    "local": "Praias de Maragogi",
+    "cidade": "Maragogi"
+  },
+  {
+    "file": "brasil-am-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "AM",
+    "estado": "Amazonas",
+    "regiao": "Norte"
+  },
+  {
+    "file": "brasil-am-mapa.jpg",
+    "type": "mapa",
+    "uf": "AM",
+    "estado": "Amazonas",
+    "regiao": "Norte",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-am-teatro-amazonas.jpg",
+    "type": "foto",
+    "uf": "AM",
+    "estado": "Amazonas",
+    "regiao": "Norte",
+    "local": "Teatro Amazonas",
+    "cidade": "Manaus"
+  },
+  {
+    "file": "brasil-ap-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "AP",
+    "estado": "Amapá",
+    "regiao": "Norte"
+  },
+  {
+    "file": "brasil-ap-mapa.jpg",
+    "type": "mapa",
+    "uf": "AP",
+    "estado": "Amapá",
+    "regiao": "Norte",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-ap-marco-zero-equador.jpg",
+    "type": "foto",
+    "uf": "AP",
+    "estado": "Amapá",
+    "regiao": "Norte",
+    "local": "Marco Zero do Equador",
+    "cidade": "Macapá"
+  },
+  {
+    "file": "brasil-ba-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "BA",
+    "estado": "Bahia",
+    "regiao": "Nordeste"
+  },
+  {
+    "file": "brasil-ba-mapa.jpg",
+    "type": "mapa",
+    "uf": "BA",
+    "estado": "Bahia",
+    "regiao": "Nordeste",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-ba-farol-da-barra.jpg",
+    "type": "foto",
+    "uf": "BA",
+    "estado": "Bahia",
+    "regiao": "Nordeste",
+    "local": "Farol da Barra",
+    "cidade": "Salvador"
+  },
+  {
+    "file": "brasil-ce-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "CE",
+    "estado": "Ceará",
+    "regiao": "Nordeste"
+  },
+  {
+    "file": "brasil-ce-mapa.jpg",
+    "type": "mapa",
+    "uf": "CE",
+    "estado": "Ceará",
+    "regiao": "Nordeste",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-ce-jericoacoara.jpg",
+    "type": "foto",
+    "uf": "CE",
+    "estado": "Ceará",
+    "regiao": "Nordeste",
+    "local": "Jericoacoara",
+    "cidade": "Jijoca de Jericoacoara"
+  },
+  {
+    "file": "brasil-df-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "DF",
+    "estado": "Distrito Federal",
+    "regiao": "Centro-Oeste"
+  },
+  {
+    "file": "brasil-df-mapa.jpg",
+    "type": "mapa",
+    "uf": "DF",
+    "estado": "Distrito Federal",
+    "regiao": "Centro-Oeste",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-df-congresso-nacional.jpg",
+    "type": "foto",
+    "uf": "DF",
+    "estado": "Distrito Federal",
+    "regiao": "Centro-Oeste",
+    "local": "Congresso Nacional",
+    "cidade": "Brasília"
+  },
+  {
+    "file": "brasil-es-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "ES",
+    "estado": "Espírito Santo",
+    "regiao": "Sudeste"
+  },
+  {
+    "file": "brasil-es-mapa.jpg",
+    "type": "mapa",
+    "uf": "ES",
+    "estado": "Espírito Santo",
+    "regiao": "Sudeste",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-es-convento-da-penha.jpg",
+    "type": "foto",
+    "uf": "ES",
+    "estado": "Espírito Santo",
+    "regiao": "Sudeste",
+    "local": "Convento da Penha",
+    "cidade": "Vila Velha"
+  },
+  {
+    "file": "brasil-go-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "GO",
+    "estado": "Goiás",
+    "regiao": "Centro-Oeste"
+  },
+  {
+    "file": "brasil-go-mapa.jpg",
+    "type": "mapa",
+    "uf": "GO",
+    "estado": "Goiás",
+    "regiao": "Centro-Oeste",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-go-chapada-veadeiros.jpg",
+    "type": "foto",
+    "uf": "GO",
+    "estado": "Goiás",
+    "regiao": "Centro-Oeste",
+    "local": "Chapada dos Veadeiros",
+    "cidade": "Alto Paraíso de Goiás"
+  },
+  {
+    "file": "brasil-ma-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "MA",
+    "estado": "Maranhão",
+    "regiao": "Nordeste"
+  },
+  {
+    "file": "brasil-ma-mapa.jpg",
+    "type": "mapa",
+    "uf": "MA",
+    "estado": "Maranhão",
+    "regiao": "Nordeste",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-ma-lencois-maranhenses.jpg",
+    "type": "foto",
+    "uf": "MA",
+    "estado": "Maranhão",
+    "regiao": "Nordeste",
+    "local": "Lençóis Maranhenses",
+    "cidade": "Barreirinhas"
+  },
+  {
+    "file": "brasil-mg-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "MG",
+    "estado": "Minas Gerais",
+    "regiao": "Sudeste"
+  },
+  {
+    "file": "brasil-mg-mapa.jpg",
+    "type": "mapa",
+    "uf": "MG",
+    "estado": "Minas Gerais",
+    "regiao": "Sudeste",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-mg-canion-furnas.jpg",
+    "type": "foto",
+    "uf": "MG",
+    "estado": "Minas Gerais",
+    "regiao": "Sudeste",
+    "local": "Cânion de Furnas",
+    "cidade": "Capitólio"
+  },
+  {
+    "file": "brasil-ms-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "MS",
+    "estado": "Mato Grosso do Sul",
+    "regiao": "Centro-Oeste"
+  },
+  {
+    "file": "brasil-ms-mapa.jpg",
+    "type": "mapa",
+    "uf": "MS",
+    "estado": "Mato Grosso do Sul",
+    "regiao": "Centro-Oeste",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-ms-gruta-lago-azul.jpg",
+    "type": "foto",
+    "uf": "MS",
+    "estado": "Mato Grosso do Sul",
+    "regiao": "Centro-Oeste",
+    "local": "Gruta do Lago Azul",
+    "cidade": "Bonito"
+  },
+  {
+    "file": "brasil-mt-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "MT",
+    "estado": "Mato Grosso",
+    "regiao": "Centro-Oeste"
+  },
+  {
+    "file": "brasil-mt-mapa.jpg",
+    "type": "mapa",
+    "uf": "MT",
+    "estado": "Mato Grosso",
+    "regiao": "Centro-Oeste",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-mt-pantanal.jpg",
+    "type": "foto",
+    "uf": "MT",
+    "estado": "Mato Grosso",
+    "regiao": "Centro-Oeste",
+    "local": "Pantanal Mato-grossense",
+    "cidade": "Poconé"
+  },
+  {
+    "file": "brasil-pa-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "PA",
+    "estado": "Pará",
+    "regiao": "Norte"
+  },
+  {
+    "file": "brasil-pa-mapa.jpg",
+    "type": "mapa",
+    "uf": "PA",
+    "estado": "Pará",
+    "regiao": "Norte",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-pa-ver-o-peso.jpg",
+    "type": "foto",
+    "uf": "PA",
+    "estado": "Pará",
+    "regiao": "Norte",
+    "local": "Mercado Ver-o-Peso",
+    "cidade": "Belém"
+  },
+  {
+    "file": "brasil-pb-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "PB",
+    "estado": "Paraíba",
+    "regiao": "Nordeste"
+  },
+  {
+    "file": "brasil-pb-mapa.jpg",
+    "type": "mapa",
+    "uf": "PB",
+    "estado": "Paraíba",
+    "regiao": "Nordeste",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-pb-cabo-branco.jpg",
+    "type": "foto",
+    "uf": "PB",
+    "estado": "Paraíba",
+    "regiao": "Nordeste",
+    "local": "Praia de Cabo Branco",
+    "cidade": "João Pessoa"
+  },
+  {
+    "file": "brasil-pe-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "PE",
+    "estado": "Pernambuco",
+    "regiao": "Nordeste"
+  },
+  {
+    "file": "brasil-pe-mapa.jpg",
+    "type": "mapa",
+    "uf": "PE",
+    "estado": "Pernambuco",
+    "regiao": "Nordeste",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-pe-fernando-de-noronha.jpg",
+    "type": "foto",
+    "uf": "PE",
+    "estado": "Pernambuco",
+    "regiao": "Nordeste",
+    "local": "Arquipélago de Fernando de Noronha",
+    "cidade": "Fernando de Noronha"
+  },
+  {
+    "file": "brasil-pi-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "PI",
+    "estado": "Piauí",
+    "regiao": "Nordeste"
+  },
+  {
+    "file": "brasil-pi-mapa.jpg",
+    "type": "mapa",
+    "uf": "PI",
+    "estado": "Piauí",
+    "regiao": "Nordeste",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-pi-serra-da-capivara.jpg",
+    "type": "foto",
+    "uf": "PI",
+    "estado": "Piauí",
+    "regiao": "Nordeste",
+    "local": "Serra da Capivara",
+    "cidade": "São Raimundo Nonato"
+  },
+  {
+    "file": "brasil-pr-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "PR",
+    "estado": "Paraná",
+    "regiao": "Sul"
+  },
+  {
+    "file": "brasil-pr-mapa.jpg",
+    "type": "mapa",
+    "uf": "PR",
+    "estado": "Paraná",
+    "regiao": "Sul",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-pr-cataratas-iguacu.jpg",
+    "type": "foto",
+    "uf": "PR",
+    "estado": "Paraná",
+    "regiao": "Sul",
+    "local": "Cataratas do Iguaçu",
+    "cidade": "Foz do Iguaçu"
+  },
+  {
+    "file": "brasil-rj-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "RJ",
+    "estado": "Rio de Janeiro",
+    "regiao": "Sudeste"
+  },
+  {
+    "file": "brasil-rj-mapa.jpg",
+    "type": "mapa",
+    "uf": "RJ",
+    "estado": "Rio de Janeiro",
+    "regiao": "Sudeste",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-rj-cristo-redentor.jpg",
+    "type": "foto",
+    "uf": "RJ",
+    "estado": "Rio de Janeiro",
+    "regiao": "Sudeste",
+    "local": "Cristo Redentor",
+    "cidade": "Rio de Janeiro"
+  },
+  {
+    "file": "brasil-rn-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "RN",
+    "estado": "Rio Grande do Norte",
+    "regiao": "Nordeste"
+  },
+  {
+    "file": "brasil-rn-mapa.jpg",
+    "type": "mapa",
+    "uf": "RN",
+    "estado": "Rio Grande do Norte",
+    "regiao": "Nordeste",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-rn-genipabu.jpg",
+    "type": "foto",
+    "uf": "RN",
+    "estado": "Rio Grande do Norte",
+    "regiao": "Nordeste",
+    "local": "Dunas de Genipabu",
+    "cidade": "Extremoz"
+  },
+  {
+    "file": "brasil-ro-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "RO",
+    "estado": "Rondônia",
+    "regiao": "Norte"
+  },
+  {
+    "file": "brasil-ro-mapa.jpg",
+    "type": "mapa",
+    "uf": "RO",
+    "estado": "Rondônia",
+    "regiao": "Norte",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-ro-rio-madeira.jpg",
+    "type": "foto",
+    "uf": "RO",
+    "estado": "Rondônia",
+    "regiao": "Norte",
+    "local": "Rio Madeira",
+    "cidade": "Porto Velho"
+  },
+  {
+    "file": "brasil-rr-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "RR",
+    "estado": "Roraima",
+    "regiao": "Norte"
+  },
+  {
+    "file": "brasil-rr-mapa.jpg",
+    "type": "mapa",
+    "uf": "RR",
+    "estado": "Roraima",
+    "regiao": "Norte",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-rr-monte-roraima.jpg",
+    "type": "foto",
+    "uf": "RR",
+    "estado": "Roraima",
+    "regiao": "Norte",
+    "local": "Monte Roraima",
+    "cidade": "Uiramutã"
+  },
+  {
+    "file": "brasil-rs-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "RS",
+    "estado": "Rio Grande do Sul",
+    "regiao": "Sul"
+  },
+  {
+    "file": "brasil-rs-mapa.jpg",
+    "type": "mapa",
+    "uf": "RS",
+    "estado": "Rio Grande do Sul",
+    "regiao": "Sul",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-rs-vale-dos-vinhedos.jpg",
+    "type": "foto",
+    "uf": "RS",
+    "estado": "Rio Grande do Sul",
+    "regiao": "Sul",
+    "local": "Vale dos Vinhedos",
+    "cidade": "Bento Gonçalves"
+  },
+  {
+    "file": "brasil-sc-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "SC",
+    "estado": "Santa Catarina",
+    "regiao": "Sul"
+  },
+  {
+    "file": "brasil-sc-mapa.jpg",
+    "type": "mapa",
+    "uf": "SC",
+    "estado": "Santa Catarina",
+    "regiao": "Sul",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-sc-ponte-hercilio-luz.jpg",
+    "type": "foto",
+    "uf": "SC",
+    "estado": "Santa Catarina",
+    "regiao": "Sul",
+    "local": "Ponte Hercílio Luz",
+    "cidade": "Florianópolis"
+  },
+  {
+    "file": "brasil-se-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "SE",
+    "estado": "Sergipe",
+    "regiao": "Nordeste"
+  },
+  {
+    "file": "brasil-se-mapa.jpg",
+    "type": "mapa",
+    "uf": "SE",
+    "estado": "Sergipe",
+    "regiao": "Nordeste",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-se-canion-xingo.jpg",
+    "type": "foto",
+    "uf": "SE",
+    "estado": "Sergipe",
+    "regiao": "Nordeste",
+    "local": "Cânion do Xingó",
+    "cidade": "Canindé de São Francisco"
+  },
+  {
+    "file": "brasil-sp-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "SP",
+    "estado": "São Paulo",
+    "regiao": "Sudeste"
+  },
+  {
+    "file": "brasil-sp-mapa.jpg",
+    "type": "mapa",
+    "uf": "SP",
+    "estado": "São Paulo",
+    "regiao": "Sudeste",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-sp-masp.jpg",
+    "type": "foto",
+    "uf": "SP",
+    "estado": "São Paulo",
+    "regiao": "Sudeste",
+    "local": "MASP",
+    "cidade": "São Paulo"
+  },
+  {
+    "file": "brasil-to-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "TO",
+    "estado": "Tocantins",
+    "regiao": "Norte"
+  },
+  {
+    "file": "brasil-to-mapa.jpg",
+    "type": "mapa",
+    "uf": "TO",
+    "estado": "Tocantins",
+    "regiao": "Norte",
+    "fonte": "Wikimedia Commons / Wikipedia (infobox locator map)"
+  },
+  {
+    "file": "brasil-to-cachoeira-da-velha.jpg",
+    "type": "foto",
+    "uf": "TO",
+    "estado": "Tocantins",
+    "regiao": "Norte",
+    "local": "Cachoeira da Velha",
+    "cidade": "Mateiros"
+  },
+  {
+    "file": "brasil-nacional-bandeira.jpg",
+    "type": "bandeira",
+    "uf": "BR",
+    "estado": "Brasil",
+    "regiao": "Nacional"
+  },
+  {
+    "file": "brasil-nacional-mapa.jpg",
+    "type": "mapa",
+    "uf": "BR",
+    "estado": "Brasil",
+    "regiao": "Nacional",
+    "fonte": "Wikimedia Commons (NordNordWest / TUBS series)"
+  }
+]
